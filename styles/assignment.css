@@ -35,3 +35,128 @@
     background-color: #469165;
     color: white;
   }
+   section {
+    background-image: url(../B13-A01-Knowledge-Vault/assets/hero-bg.png);
+    width: 1536px;
+    height: 674px;
+    padding: 70px 134px 120px 120px;
+    background-repeat: no-repeat;
+    
+  }
+ #grid {
+
+  width: 16px ;
+  height: 16px;
+  border-radius: 8px;
+  background-color: #469165;
+  background-image: radial-gradient(#469165, #83af95, #b4cabd);
+ 
+}
+
+ .btn-1 {
+  width: 229px;
+  height: 35px;
+  border-radius: 1000px;
+  border: none;
+   background-color: #ffffff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ #banner {
+  width: 1536px;
+ height: 674px;
+
+ }
+ .banner-content {
+   width: 1296px;
+  height: 379px;
+  
+ 
+
+ }
+
+
+
+.gradient {
+  display: flex;
+list-style-type: none;
+justify-content: center;
+align-items: center;
+}
+#grid-1 {
+  width: 183px;
+  height: 19px;
+font-size: 16px;
+font-weight: 500;
+color: #469165;
+letter-spacing: 0%;
+
+}
+.big {
+  width: 870px;
+ height: 176px;
+ opacity: 90%;
+ font-weight: 700;
+ line-height: 84px;
+ margin-left: auto;
+ margin-right: auto;
+  font-size: 40px
+
+}
+.big-1 {
+  color: #ffffff;
+  text-align: center;
+
+}
+.big-2 {
+  color: #30B868;
+  text-align: center;
+ 
+}
+.ptag {
+   color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+    text-align: center;
+   
+}
+.btn-2 {
+   width: 465px;
+  height: 52px;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 16px;
+  display: flex;
+}
+.btn-a {
+    width: 251px;
+  height: 52px;
+  background-color: #469165;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 12px 16px;
+  gap: 10px;
+  border-radius: 4px;
+  
+}
+.btn-c {
+    width: 15.63px;
+  height: 13.13px;
+
+}
+.btn-b {
+  border: 1px solid #ffffff;
+  width: 198px;
+  height: 52px;
+  padding: 12px 16px;
+  border-radius: 4px;
+  gap: 10px;
+  color: #ffffff;
+}
+.btn-d {
+    width: 14.38px;
+  height: 16.87px;
+  
+  }
